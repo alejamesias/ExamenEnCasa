@@ -1,0 +1,7 @@
+Producto  | Categoría | Unidades Totales | Valor Total
+Iphone 16  | Tecnologia | 5               | $17500000.00
+Rubor      | Belleza    | 30              | $600000.00
+Adidas Campus | Calzado    | 120             | $60000000.00
+Sueter tejido de pepa | Ropa       | 400             | $20000000.00
+Leche de ALmendras | Alimentos  | 120             | $4164000.00
+Valor total del inventario es: $102264000.00

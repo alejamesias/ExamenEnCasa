@@ -1,0 +1,5 @@
+1,Iphone 16,Tecnologia,3500000.0,5
+2,Rubor,Belleza,20000.0,50
+3,Adidas Campus,Calzado,500000.0,120
+4,Sueter tejido de pepa,Ropa,50000.0,400
+5,Leche de ALmendras,Alimentos,34700.0,120
